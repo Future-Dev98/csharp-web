@@ -3,16 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|c:\\users\\hyv\\source\\repos\\aspnetcoreapp\\pages\\movies\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|solutionrelative:pages\\movies\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|c:\\users\\hyv\\source\\repos\\aspnetcoreapp\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|solutionrelative:models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HYV\\AppData\\Local\\SourceServer\\48ccf843c64d22721d28190e8e2beab96dac2b1350b4cbc90535ebc0b48fde33\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|c:\\users\\hyv\\source\\repos\\aspnetcoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|c:\\users\\hyv\\source\\repos\\aspnetcoreapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|c:\\users\\hyv\\source\\repos\\aspnetcoreapp\\pages\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|solutionrelative:pages\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|c:\\users\\hyv\\source\\repos\\aspnetcoreapp\\pages\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|solutionrelative:pages\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|c:\\users\\hyv\\source\\repos\\aspnetcoreapp\\pages\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|solutionrelative:pages\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|c:\\users\\hyv\\source\\repos\\aspnetcoreapp\\pages\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|solutionrelative:pages\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|c:\\users\\hyv\\source\\repos\\aspnetcoreapp\\pages\\movies\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|solutionrelative:pages\\movies\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|c:\\users\\hyv\\source\\repos\\aspnetcoreapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|c:\\users\\hyv\\source\\repos\\aspnetcoreapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,24 +66,12 @@
       "RelativeMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|solutionrelative:pages\\movies\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|c:\\users\\hyv\\source\\repos\\aspnetcoreapp\\pages\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|solutionrelative:pages\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|c:\\users\\hyv\\source\\repos\\aspnetcoreapp\\data\\aspnetcoreappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|solutionrelative:data\\aspnetcoreappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|c:\\users\\hyv\\source\\repos\\aspnetcoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|c:\\users\\hyv\\source\\repos\\aspnetcoreapp\\migrations\\20241014074844_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|solutionrelative:migrations\\20241014074844_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|c:\\users\\hyv\\source\\repos\\aspnetcoreapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9C5E9D7B-8537-465C-B3BE-53A2527D836A}|ASPnetcoreapp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,63 +81,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Pages\\Movies\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Movies\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Pages\\Movies\\Delete.cshtml",
-              "RelativeToolTip": "Pages\\Movies\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T08:11:56.402Z",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HYV\\AppData\\Local\\SourceServer\\48ccf843c64d22721d28190e8e2beab96dac2b1350b4cbc90535ebc0b48fde33\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\48ccf843c64d22721d28190e8e2beab96dac2b1350b4cbc90535ebc0b48fde33\\Program.cs",
+              "ToolTip": "C:\\Users\\HYV\\AppData\\Local\\SourceServer\\48ccf843c64d22721d28190e8e2beab96dac2b1350b4cbc90535ebc0b48fde33\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\48ccf843c64d22721d28190e8e2beab96dac2b1350b4cbc90535ebc0b48fde33\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowBcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:56:32.623Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Pages\\Movies\\Details.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Movies\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Pages\\Movies\\Details.cshtml.cs",
-              "RelativeToolTip": "Pages\\Movies\\Details.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Models\\SeedData.cs",
+              "RelativeToolTip": "Models\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T08:11:56.336Z",
+              "WhenOpened": "2024-10-14T09:51:11.881Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Pages\\Movies\\Details.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Movies\\Details.cshtml",
-              "ToolTip": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Pages\\Movies\\Details.cshtml",
-              "RelativeToolTip": "Pages\\Movies\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBwAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T08:11:56.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T09:26:42.792Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Pages\\Movies\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Movies\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Pages\\Movies\\Edit.cshtml.cs",
-              "RelativeToolTip": "Pages\\Movies\\Edit.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T08:11:56.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Pages\\Movies\\Edit.cshtml",
               "RelativeDocumentMoniker": "Pages\\Movies\\Edit.cshtml",
@@ -134,12 +131,11 @@
               "RelativeToolTip": "Pages\\Movies\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T08:11:56.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T08:11:56.111Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Pages\\Movies\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Movies\\Create.cshtml.cs",
@@ -147,12 +143,11 @@
               "RelativeToolTip": "Pages\\Movies\\Create.cshtml.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T08:11:56.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T08:11:56.043Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Pages\\Movies\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\Movies\\Create.cshtml",
@@ -160,12 +155,11 @@
               "RelativeToolTip": "Pages\\Movies\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T08:11:55.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T08:11:55.971Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Movie.cs",
               "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "Models\\Movie.cs",
@@ -173,25 +167,47 @@
               "RelativeToolTip": "Models\\Movie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T07:35:11.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T07:35:11.515Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Pages\\Movies\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Movies\\Index.cshtml",
               "ToolTip": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Pages\\Movies\\Index.cshtml",
               "RelativeToolTip": "Pages\\Movies\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T08:11:56.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T08:11:56.53Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:43:26.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Pages\\Movies\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Movies\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Pages\\Movies\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Movies\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:11:56.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Pages\\Movies\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Movies\\Index.cshtml.cs",
@@ -199,12 +215,59 @@
               "RelativeToolTip": "Pages\\Movies\\Index.cshtml.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T08:11:56.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T08:11:56.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T07:43:45.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Pages\\Movies\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Movies\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Pages\\Movies\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Movies\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:11:56.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Pages\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Pages\\Movies\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Movies\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T08:11:56.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Pages\\Movies\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Movies\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Pages\\Movies\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Movies\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T08:11:56.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Pages\\Movies\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Movies\\Delete.cshtml.cs",
@@ -212,25 +275,11 @@
               "RelativeToolTip": "Pages\\Movies\\Delete.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T08:11:56.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T08:11:56.464Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-14T07:43:45.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "ASPnetcoreappContext.cs",
               "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Data\\ASPnetcoreappContext.cs",
               "RelativeDocumentMoniker": "Data\\ASPnetcoreappContext.cs",
@@ -238,25 +287,11 @@
               "RelativeToolTip": "Data\\ASPnetcoreappContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T07:43:26.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T07:43:26.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T07:43:26.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "20241014074844_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\HYV\\source\\repos\\ASPnetcoreapp\\Migrations\\20241014074844_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20241014074844_InitialCreate.cs",
@@ -264,8 +299,7 @@
               "RelativeToolTip": "Migrations\\20241014074844_InitialCreate.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T07:48:44.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T07:48:44.501Z"
             }
           ]
         }

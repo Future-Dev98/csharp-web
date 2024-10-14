@@ -256,3 +256,4 @@ C:\Users\HYV\source\repos\ASPnetcoreapp\obj\Debug\net8.0\refint\ASPnetcoreapp.dl
 C:\Users\HYV\source\repos\ASPnetcoreapp\obj\Debug\net8.0\ASPnetcoreapp.pdb
 C:\Users\HYV\source\repos\ASPnetcoreapp\obj\Debug\net8.0\ASPnetcoreapp.genruntimeconfig.cache
 C:\Users\HYV\source\repos\ASPnetcoreapp\obj\Debug\net8.0\ref\ASPnetcoreapp.dll
+C:\Users\HYV\source\repos\ASPnetcoreapp\obj\Debug\net8.0\ASPnetcoreapp.sourcelink.json

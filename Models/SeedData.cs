@@ -1,5 +1,6 @@
 ﻿using ASPnetcoreapp.Data;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace ASPnetcoreapp.Models
 {
